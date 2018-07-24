@@ -8,7 +8,7 @@ When a user click "Enable Content" or "Enable Editing" after opening a document 
 
 Run the Powershell script
 
-  CheckMacro.ps1 .\results.csv
+>   CheckMacro.ps1 .\results.csv
 
 The output in results.csv will give the following information:
 . File Path
